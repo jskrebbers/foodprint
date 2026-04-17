@@ -1,3 +1,11 @@
+>  **Note:**  
+> This repository is a fork of the original project developed as part of the Artificial Intelligence track of the Techlabs Digital Shaper program.  
+> The development was carried out collaboratively in a team.  
+> Please refer to the original repository:  
+> https://github.com/ctrlaltdata/foodprint
+
+
+
 # Foodprint :seedling: Food choices that benefit the planet
 
 This is an object detection model for webcam live videos that calculates the carbon footprint of fruits. 
